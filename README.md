@@ -8,14 +8,8 @@ In this use case there are few NLP techniques performed which are listed below:
 
 3:Bag Of Words(Vectors)
 
-4:Train Test Split for training and test
+4:Train Test Split for splitting the data into training and testing data
 
 4:Model training using NaiveBayes Classifier
 
-Except the above techniques, alternatively we can use other techniques as well such as :
 
-1.Lemmatization
-
-2.TF-IDF (Term Frequency-Inverse Document Frequency)
-
-3.Classfication Algorithms
